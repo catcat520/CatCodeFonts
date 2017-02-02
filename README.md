@@ -4,11 +4,11 @@
 
 1.等宽<br>
 2.数字零中间为斜线或者点，用于区分字母O<br>
-
 1.Monospaced<br>
 2.0 : Slashed zero and Dotted zero<br>
 
 <b><li>字体参考:</b><br>
+
 https://atom.io/packages/fonts https://github.com/braver/fonts<br>
 http://programmingfonts.org/<br>
 
