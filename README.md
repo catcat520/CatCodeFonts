@@ -10,6 +10,7 @@ The feature of Programming fonts for code<br>
 2.0 : Slashed zero and Dotted zero<br>
 
 <b>字体参考:</b><br>
+https://atom.io/packages/fonts https://github.com/braver/fonts<br>
 http://programmingfonts.org/<br>
 
 <b>字体列表(Fonts List):</b><br>
