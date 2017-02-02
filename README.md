@@ -9,4 +9,4 @@ Programming fonts for code feature<br>
 1.Monospaced<br>
 2.0 : Slashed zero and Dotted zero<br>
 
-字体列表【商业版本字体密码:诗仙是谁？】(Fonts List):<br>
+字体列表【商业版本字体密码:诗仙是谁？】【who is the god of chinese poetry?Type Chinese characters!】(Fonts List):<br>
