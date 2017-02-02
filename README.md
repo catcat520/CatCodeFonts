@@ -13,4 +13,4 @@ https://atom.io/packages/fonts https://github.com/braver/fonts<br>
 http://programmingfonts.org/<br>
 
 <b><li>字体列表(Fonts List):</b><br>
-【字体密码:诗仙是谁？】【Fonts Password:who is the god of chinese poetry?Type Chinese characters!】<br>
+<li>字体密码:诗仙是谁？(Fonts Password:who is the god of chinese poetry?Type Chinese characters!)<br>
