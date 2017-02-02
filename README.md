@@ -1,11 +1,10 @@
 # CatCodeFonts
 
-<b><li>字体特性:</b><br>
+<b><li>字体特性(The feature of Programming fonts for code):</b><br>
 
 1.等宽<br>
 2.数字零中间为斜线或者点，用于区分字母O<br>
 
-The feature of Programming fonts for code<br>
 1.Monospaced<br>
 2.0 : Slashed zero and Dotted zero<br>
 
