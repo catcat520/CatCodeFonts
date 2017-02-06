@@ -1,8 +1,9 @@
-﻿字体下载网站
+﻿字体下载网站 <FreeFonts Download>
 *nix : https://packages.debian.org/stable/fonts/
 free : http://www.1001freefonts.com/
+free : https://www.fontsquirrel.com/
 
-FON/BDF
+点阵字体 FON/BDF <BitmapFonts>
 https://fontlibrary.org/en/font/effects-eighty
 EnvyCode : https://damieng.com/?s=Envy+Code+R
 MegatopsProCoder : http://blog.163.com/zhaojie_ding/
@@ -93,7 +94,7 @@ UbuntuMono : http://font.ubuntu.com/
 Verily Serif Mono : http://delubrum.org/ http://www.fontsquirrel.com/fonts/verily-serif-mono/
 $ Vivala Code : https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
 
-零中间没有斜线和点
+零中间没有斜线和点 <ZeroWithoutSlashedAndDotted>
 AurulentSansMono : http://delubrum.org/ https://www.fontsquirrel.com/fonts/Aurulent-Sans-Mono/
 AverageMono : http://www.earthbound.io/ https://fontlibrary.org/en/font/average-mono/
 $ Colon Mono : https://www.myfonts.com/fonts/tipografiaramis/colon-mono/
@@ -126,7 +127,7 @@ $ T-Star Mono Round : https://www.fontshop.com/families/t-star-mono
 $ Vulf Mono : http://www.ohnotype.co/product/vulf-mono
 
 
-混合
-YaHei Consolas Hybrid : http://www.cnblogs.com/RobertLee/archive/2006/12/25/602646.html Robert Lee
-Microsoft YaHei Mono : http://bbs.themex.net/showthread.php?t=16872539&highlight=yahei+consolas+hybrid infinte
+中英混合 <CJKMix>
+YaHei Consolas Hybrid : http://www.cnblogs.com/RobertLee/archive/2006/12/25/602646.html
+Microsoft YaHei Mono : http://bbs.themex.net/showthread.php?t=16872539&highlight=yahei+consolas+hybrid
 MonacoYaHei
