@@ -9,7 +9,7 @@
 
 <b><li>字体参考:</b><br>
 
-更新频率一年或半年(update frequency once a year or half year)
+更新频率一年或半年(update frequency once a year or half year)<br>
 https://atom.io/packages/fonts/<br>
 https://github.com/braver/fonts/<br>
 https://github.com/chrissimpkins/codeface/<br>
