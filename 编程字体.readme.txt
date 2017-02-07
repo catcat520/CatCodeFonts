@@ -1,14 +1,22 @@
 ﻿字体下载网站 <FreeFonts Download>
-*nix : https://packages.debian.org/stable/fonts/
 free : http://www.1001freefonts.com/
+free : http://www.fontstruct.com
+free : http://www.fontspace.com/
+free : https://www.fontlibrary.org/
 free : https://www.fontsquirrel.com/
+*nix : https://packages.debian.org/stable/fonts/
 
-点阵字体 FON/BDF <BitmapFonts>
-https://fontlibrary.org/en/font/effects-eighty
+点阵字体 BDF/FNT/FON/PCF <BitmapFonts>
+Dina : http://www.donationcoder.com/Software/Jibz/Dina/
+EffectsEighty : https://fontlibrary.org/en/font/effects-eighty
 EnvyCode : https://damieng.com/?s=Envy+Code+R
+Gohufont : http://font.gohu.org/ https://github.com/hchargois/
 MegatopsProCoder : http://blog.163.com/zhaojie_ding/
+MiscFixedSC613 : http://www.samiam.org/blog/20120216.html
+ProFont : http://tobiasjung.name/profont/ http://www.tobiasjung.net/profont/ http://tobiasjung.name/blog/
 Raize : http://www.raize.com/
 Terminus : http://terminus-font.sourceforge.net/
+VT323 : https://fedoraproject.org/wiki/VT323_Fonts https://fonts.google.com/specimen/VT323?selection.family=VT323
 
 DFONT/OTF/TTF
 AlmaMono : 网络收集
@@ -97,6 +105,7 @@ $ Vivala Code : https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
 零中间没有斜线和点 <ZeroWithoutSlashedAndDotted>
 AurulentSansMono : http://delubrum.org/ https://www.fontsquirrel.com/fonts/Aurulent-Sans-Mono/
 AverageMono : http://www.earthbound.io/ https://fontlibrary.org/en/font/average-mono/
+BaseMono : https://typekit.com/fonts/base-mono/
 $ Colon Mono : https://www.myfonts.com/fonts/tipografiaramis/colon-mono/
 CutiveMono : https://www.google.com/fonts/ https://github.com/vernnobile/CutiveFont/
 $ Decima Mono Pro : https://www.myfonts.com/fonts/tipografiaramis/decima-mono-pro/
@@ -107,7 +116,7 @@ FreeMono(GUN) : https://www.gnu.org/software/freefont/ http://ftp.gnu.org/gnu/fr
 $ Ingrid Mono : https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
 $ Karben205Mono : https://www.myfonts.com/fonts/talbot/karben-205-mono/
 Lekton : http://www.isiaurbino.net http://fontain.org/lekton/
-LM Mono(Latin Modern Mono) : http://www.gust.org.pl/gust/projects/e-foundry/latin-modern
+LM Mono(Latin Modern Mono) : http://www.gust.org.pl/gust/projects/e-foundry/latin-modern/
 Luxi Mono : https://packages.debian.org/stable/fonts/
 $ Monocolo : http://www.myfonts.com/fonts/kprojects/monocolo/
 MonogramsToolbox : http://manfred-klein.ina-mar.com/ http://moorstation.org/typoasis/designers/klein04/index.htm
@@ -115,16 +124,23 @@ MonospaceTypewriter : http://manfred-klein.ina-mar.com/ http://moorstation.org/t
 MonoSpatial : http://manfred-klein.ina-mar.com/ http://moorstation.org/typoasis/designers/klein04/index.htm
 $* Monosphere : https://www.myfonts.com/fonts/mawns/monosphere/
 NK57 Monospace : http://typodermicfonts.com/
+NotCourierSans : http://osp.kitchen/foundry/notcouriersans/ https://www.fontsquirrel.com/fonts/NotCourierSans
 NotoMono : Noto Mono : https://www.google.com/get/noto/#mono-mono
 $ NovelMono : http://www.myfonts.com/fonts/atlas-font-foundry/novel-mono-pro/
 OCR A Extended : OFFICE http://xbox.create.msdn.com/zh-CN/resources/downloads http://xbox.create.msdn.com/zh-CN/education/catalog/utility/font_pack
 OCR A Std : ADOBE
+QuadraatSMono : https://www.myfonts.com/fonts/fontfont/quadraat-sans-mono/
+saxMono : https://www.fontsquirrel.com/fonts/saxMono/
 Segoe Mono : http://bbs.themex.net/showthread.php?t=16904611&highlight=segoe
 Segoe UI Mono : http://xbox.create.msdn.com/zh-CN/resources/downloads http://xbox.create.msdn.com/zh-CN/education/catalog/utility/font_pack
+Sudo : https://www.kutilek.de/sudo-font/ https://github.com/jenskutilek/
 $ Syke Mono : https://www.myfonts.com/search/Syke+Mono/
 $ Taurus Mono : http://www.tylerfinck.com/
-$ T-Star Mono Round : https://www.fontshop.com/families/t-star-mono
-$ Vulf Mono : http://www.ohnotype.co/product/vulf-mono
+TeXGyreCursor : http://www.gust.org.pl/projects/e-foundry/tex-gyre/
+TheMixMono : http://www.lucasfonts.com/fonts/themixmono/
+TheSansMono : http://www.lucasfonts.com/fonts/thesansmono/thesansmono/
+$ T-Star Mono Round : https://www.fontshop.com/families/t-star-mono/
+$ Vulf Mono : http://www.ohnotype.co/product/vulf-mono/
 
 
 中英混合 <CJKMix>
