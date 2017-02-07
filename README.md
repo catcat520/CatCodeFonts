@@ -10,11 +10,11 @@
 <b><li>字体参考:</b><br>
 
 更新频率一年或半年(update frequency once a year or half year)<br>
-https://atom.io/packages/fonts/ https://github.com/braver/fonts/<br>
+https://github.com/braver/fonts/ https://atom.io/packages/fonts/ <br>
 https://github.com/chrissimpkins/codeface/<br>
-http://programmingfonts.org/<br>
-https://www.slant.co/topics/67/~best-programming-fonts/<br>
 https://github.com/Tecate/bitmap-fonts/<br>
+https://www.slant.co/topics/67/~best-programming-fonts/<br>
+http://www.programmingfonts.org/<br>
 
 <b><li>字体列表(Fonts List):</b><br>
 <li>字体密码:诗仙是谁？(Fonts Password:who is the god of chinese poetry?Type Chinese characters!)<br>
