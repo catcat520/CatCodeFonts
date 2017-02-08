@@ -5,8 +5,11 @@ free : http://www.fontspace.com/
 free : https://www.fontlibrary.org/
 free : https://www.fontsquirrel.com/
 *nix : https://packages.debian.org/stable/fonts/
+free : http://www.kreativekorp.com/software/fonts/index.shtml
+
 
 点阵字体 BDF/FNT/FON/PCF <BitmapFonts>
+Creep : https://github.com/romeovs/
 Dina : http://www.donationcoder.com/Software/Jibz/Dina/
 EffectsEighty : https://fontlibrary.org/en/font/effects-eighty
 EnvyCode : https://damieng.com/?s=Envy+Code+R
@@ -18,13 +21,16 @@ Raize : http://www.raize.com/
 Terminus : http://terminus-font.sourceforge.net/
 VT323 : https://fedoraproject.org/wiki/VT323_Fonts https://fonts.google.com/specimen/VT323?selection.family=VT323
 
+
 DFONT/OTF/TTF
+A.D.MONO : 网络收集
+agarick : https://github.com/agarick
 AlmaMono : 网络收集
 Andale Mono : (微软版)http://prdownloads.sourceforge.net/corefonts/andale32.exe?download
 Anka/Coder : https://github.com/fitojb/ https://code.google.com/archive/p/anka-coder-fonts/
 Anonymous Pro : http://www.marksimonson.com/
 $ ASM : https://www.myfonts.com/fonts/textaxis/asm/
-$ Autocode : https://www.myfonts.com/fonts/aviation/autocode/
+$ Autocode : https://www.myfonts.com/fonts/aviation/autocode/ http://www.aviationpartners.co.uk
 $ BB Roller Mono : https://www.youworkforthem.com/font/T5988/bb-roller-mono/buying/
 Bitstream Vera Sans Mono: http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
 BPmono : http://backpacker.gr/fonts/5
@@ -35,8 +41,8 @@ Consolas : WIN OS
 Courier Prime Code : http://quoteunquoteapps.com/courierprime/
 Cousine : https://www.google.com/fonts/specimen/Cousine
 DejaVu Sans Mono : http://dejavu-fonts.org/ https://sourceforge.net/projects/dejavu/
-Droid Sans Mono Pro : https://www.myfonts.com/fonts/ascender/droid-sans-mono-pro/
-$ EcoCoding : https://www.myfonts.com/fonts/s-core/eco-coding/
+$ Droid Sans Mono Pro : https://www.myfonts.com/fonts/ascender/droid-sans-mono-pro/
+$ EcoCoding : https://www.myfonts.com/fonts/s-core/eco-coding/ https://www.facebook.com/CoreFont
 Envy Code R : https://damieng.com/?s=Envy+Code+R
 Espresso Mono : https://github.com/jmazzi/dotfiles/tree/master/.fonts
 Fantasque Sans Mono : https://github.com/belluzj/ https://fontlibrary.org/en/font/fantasque-sans-mono
@@ -64,7 +70,7 @@ Luculent : http://eastfarthing.com/luculent/
 (日)M+ : https://osdn.jp/projects/mplus-fonts/releases/ http://mplus-fonts.osdn.jp/
 Menlo : MAC OS
 Meslo : https://github.com/andreberg/
-$ Mingray Mono : https://www.myfonts.com/fonts/rekord/mingray-mono/
+$ Mingray Mono : https://www.myfonts.com/fonts/rekord/mingray-mono/ http://rekord.cc/
 Monaco : MAC OS
 Monofur : http://eurofurence.net/
 Monoid : http://larsenwork.com/monoid/ https://github.com/larsenwork/
@@ -79,6 +85,7 @@ $ Operator Mono : Hoefler & Co. : http://www.typography.com/techniques/opentype/
 Overpass Mono : http://overpassfont.org/ https://github.com/RedHatBrand/Overpass/
 Oxygen Mono : https://www.google.com/fonts/ https://github.com/vernnobile/oxygenFont
 Panic Sans : https://panic.com/coda/ (提取) https://github.com/chrissimpkins/codeface/tree/master/fonts/panic-sans
+Pointfree : https://code.google.com/archive/p/i3project/downloads
 $ PragmataPro : http://www.fsd.it/
 ProFont : http://tobiasjung.name/profont/ http://www.tobiasjung.net/profont/ http://tobiasjung.name/blog/
 Proggy : http://www.proggyfonts.net/ http://upperbounds.net/
@@ -88,6 +95,7 @@ $ Rational TW : https://www.myfonts.com/fonts/rene-bieder/rational-tw/
 $ Realtime : https://www.myfonts.com/fonts/jurizaech/realtime/
 (日)Ricty : http://www.rs.tus.ac.jp/yyusa/index.html.ja#misc
 Roboto Mono : https://www.google.com/fonts/
+SF Mono(SanFranciscoMono) : https://developer.apple.com/download/
 Share Tech Mono : https://www.google.com/fonts/
 $ Simplon BP Mono : https://www.swisstypefaces.com/fonts/simplon/
 $ Sk-Modernist Mono : http://seankanedesign.com/
@@ -98,9 +106,12 @@ $ Tabac Mono : https://www.myfonts.com/fonts/suitcase/tabac-mono/
 Telegrama : http://yoworks.com/
 TerminusTTF : http://files.ax86.net/ http://terminus-font.sourceforge.net/
 Ti92Pluspc : 网络搜集
+$ TrimMono : https://www.myfonts.com/fonts/autodidakt/trim-mono/
+Typed : https://code.google.com/archive/p/i3project/downloads
 UbuntuMono : http://font.ubuntu.com/
 Verily Serif Mono : http://delubrum.org/ http://www.fontsquirrel.com/fonts/verily-serif-mono/
 $ Vivala Code : https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
+
 
 零中间没有斜线和点 <ZeroWithoutSlashedAndDotted>
 AurulentSansMono : http://delubrum.org/ https://www.fontsquirrel.com/fonts/Aurulent-Sans-Mono/
@@ -117,6 +128,8 @@ $ Ingrid Mono : https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
 $ Karben205Mono : https://www.myfonts.com/fonts/talbot/karben-205-mono/
 Lekton : http://www.isiaurbino.net http://fontain.org/lekton/
 LM Mono(Latin Modern Mono) : http://www.gust.org.pl/gust/projects/e-foundry/latin-modern/
+Lucida Sans Typewriter(Adobe) : https://www.myfonts.com/fonts/adobe/lucida-sans-typewriter/
+Lucida Typewriter(Adobe) : https://www.myfonts.com/fonts/adobe/lucida-typewriter/
 Luxi Mono : https://packages.debian.org/stable/fonts/
 $ Monocolo : http://www.myfonts.com/fonts/kprojects/monocolo/
 MonogramsToolbox : http://manfred-klein.ina-mar.com/ http://moorstation.org/typoasis/designers/klein04/index.htm
