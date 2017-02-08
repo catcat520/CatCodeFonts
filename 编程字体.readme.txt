@@ -39,6 +39,7 @@ $ Autocode : https://www.myfonts.com/fonts/aviation/autocode/ http://www.aviatio
 $ BB Roller Mono : https://www.youworkforthem.com/font/T5988/bb-roller-mono/buying/
 Bitstream Vera Sans Mono: http://ftp.gnome.org/pub/GNOME/sources/ttf-bitstream-vera/1.10/
 BPmono : http://backpacker.gr/fonts/5
+Bront : https://github.com/chrismwendt/
 CamingoCode : http://www.janfromm.de/
 Code New Roman : https://www.facebook.com/Code.New.Roman
 Consola Mono : https://fontlibrary.org/en/font/consolamono
@@ -139,6 +140,7 @@ FreeMono(GUN) : https://www.gnu.org/software/freefont/ http://ftp.gnu.org/gnu/fr
 $ Ingrid Mono : https://www.myfonts.com/fonts/jorg-schmitt/ingrid-mono/
 $ Karben205Mono : https://www.myfonts.com/fonts/talbot/karben-205-mono/
 Lekton : http://www.isiaurbino.net http://fontain.org/lekton/
+Linux Libertine Mono : https://sourceforge.net/projects/linuxlibertine/ http://www.linuxlibertine.org/
 LM Mono(Latin Modern Mono) : http://www.gust.org.pl/gust/projects/e-foundry/latin-modern/
 Lucida Sans Typewriter(Adobe) : https://www.myfonts.com/fonts/adobe/lucida-sans-typewriter/
 Lucida Typewriter(Adobe) : https://www.myfonts.com/fonts/adobe/lucida-typewriter/
