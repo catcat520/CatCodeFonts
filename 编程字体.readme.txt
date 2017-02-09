@@ -1,4 +1,7 @@
-﻿字体下载网站 <FreeFonts Download>
+﻿Ver : 2017.02.09 | 09:59
+
+
+字体下载网站 <FreeFonts Download>
 free : http://www.1001freefonts.com/
 free : http://www.fontstruct.com
 free : http://www.fontspace.com/
@@ -101,7 +104,7 @@ PT Mono : http://www.paratype.com/public/
 Quinze : https://fontlibrary.org/en/font/fifteen
 $ Rational TW : https://www.myfonts.com/fonts/rene-bieder/rational-tw/
 $ Realtime : https://www.myfonts.com/fonts/jurizaech/realtime/
-(日)Ricty : http://www.rs.tus.ac.jp/yyusa/index.html.ja#misc
+(日)Ricty : http://www.rs.tus.ac.jp/yyusa/index.html.ja#misc http://www.rs.tus.ac.jp/yyusa/ricty_diminished/ricty_diminished-#{version}.tar.gz
 Roboto Mono : https://www.google.com/fonts/
 Smooth Pet : http://www.dafont.com/smooth-pet.font http://www.vtxemu.com/download.html
 SF Mono(SanFranciscoMono) : https://developer.apple.com/download/
@@ -123,7 +126,7 @@ $ Vivala Code : https://www.myfonts.com/fonts/johannes-hoffmann/vivala-code/
 Whois : https://github.com/raphaelbastide/
 
 
-零中间没有斜线和点 <ZeroWithoutSlashedAndDotted>
+零中间没有斜线和点 <Zero Without Slashed And Dotted>
 AurulentSansMono : http://delubrum.org/ https://www.fontsquirrel.com/fonts/Aurulent-Sans-Mono/
 AverageMono : http://www.earthbound.io/ https://fontlibrary.org/en/font/average-mono/
 BaseMono : https://typekit.com/fonts/base-mono/
@@ -173,7 +176,7 @@ $ T-Star Mono Round : https://www.fontshop.com/families/t-star-mono/
 $ Vulf Mono : http://www.ohnotype.co/product/vulf-mono/
 
 
-中英混合 <CJKMix>
+中英混合 <Latin Mix CJK>
 CSKirisameDGMono-OT : http://bbs.themex.net/showthread.php?t=16884770
 CSKRS+CSKirisame : http://bbs.themex.net/showthread.php?t=16885245
 Microsoft YaHei Mono : http://bbs.themex.net/showthread.php?t=16872539
