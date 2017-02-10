@@ -16,5 +16,5 @@ https://github.com/Tecate/bitmap-fonts/<br>
 https://www.slant.co/topics/67/~best-programming-fonts/<br>
 http://www.programmingfonts.org/<br>
 
-<b><li>字体列表(Fonts List):</b><br>
-<li>字体密码:诗仙是谁？(Fonts Password:who is the god of chinese poetry?Type Chinese characters!)<br>
+<b><li>字体列表:字体密码:诗仙是谁？(Fonts List):</b><br>
+<li><br>
