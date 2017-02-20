@@ -27,7 +27,6 @@ Hermit<br>
 InputMono<br>
 Iosevka<br>
 KawkabMono<br>
-Mononoki<br>
 MingrayMono<br>
 OfficeCodePro<br>
 OperatorMono<br>
