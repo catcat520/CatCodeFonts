@@ -17,4 +17,27 @@ https://www.slant.co/topics/67/~best-programming-fonts/<br>
 http://www.programmingfonts.org/<br>
 
 <b><li>字体列表:字体密码:诗仙是谁？(Fonts List):</b><br>
-<li>轻字重体:<br>
+<b><li>轻字重体(Light version):</b><br>
+AlmaMono<br>
+FedraMono<br>
+FiraCode<br>
+Native<br>
+Hasklig<br>
+Hermit<br>
+InputMono<br>
+Iosevka<br>
+KawkabMono<br>
+Mononoki<br>
+MingrayMono<br>
+OfficeCodePro<br>
+OperatorMono<br>
+OverpassMono<br>
+RationalTWMono<br>
+RealtimeMono<br>
+RobotoMono<br>
+SanFranciscoMono<br>
+SimplonBPMono<br>
+SkyhookMono<br>
+SourceCodePro<br>
+TabacMono<br>
+TrimMonoWeb<br>
