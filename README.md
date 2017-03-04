@@ -17,7 +17,7 @@ https://www.slant.co/topics/67/~best-programming-fonts/<br>
 http://www.programmingfonts.org/<br>
 
 <b><li>字体列表:字体密码:诗仙是谁？(Fonts List):</b><br>
-<b><li>轻字重体(Light version):</b><br>
+<b><li>含轻字重(Include Light Style):</b><br>
 AlmaMono<br>
 FedraMono<br>
 FiraCode<br>
